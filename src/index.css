@@ -1,0 +1,10 @@
+body {
+  background: linear-gradient(
+    109.6deg,
+    rgb(78, 112, 157) 11.2%,
+    rgb(137, 164, 199) 65%,
+    rgb(205, 213, 224) 100.2%
+  );
+
+  color: whitesmoke;
+}
